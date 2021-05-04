@@ -7,7 +7,7 @@ Text mining is done using Beautifulsoup4.
 
 <h4>INSTALL BeautifulSoup4 first:
   
-pip install beautifulsoup4
+>pip install beautifulsoup4
 
 <h4>Steps to run the wiki_crawl.py file:
 
